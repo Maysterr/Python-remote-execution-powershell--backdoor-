@@ -1,2 +1,3 @@
 # Python remote execution powershell (bacdoor)
- backdoor in python
+add your certificate to firebase in controller server and exe.
+all code has descibed in code
